@@ -25,8 +25,8 @@
 |---|---|---|---|
 | 01 | 0.0–2.5 | 2.5 | 5 s → 2.5 |
 | 02 | 2.5–4.0 | 1.5 | 5 s → 1.5 |
-| 03 | 4.0–5.5 | 1.5 | 5 s → 1.5 |
-| 04 | 5.5–9.0 | 3.5 | 4 × 5 s takes → ~0.9 each |
+| 03 | 4.0–6.0 | 2.0 | 5 s → 2.0 |
+| 04 | 6.0–9.0 | 3.0 | 4 × 5 s takes → 0.8 / 0.75 / 0.75 / 0.7 |
 | 05 | 9.0–9.8 | 0.8 | 5 s → 0.8 |
 | 06 | 9.8–13.0 | 3.2 | 5 s → 3.2 |
 | 07 | 13.0–15.0 | 2.0 | 5 s → 2.0 |
@@ -46,13 +46,13 @@
 - **Performance:** We barely see her face. The word does the work.
 - **Sound:** The vibration cuts out as she silences it, leaving dead quiet for half a beat.
 
-### SHOT 03 — 1.5 sec (4.0–5.5)
+### SHOT 03 — 2.0 sec (4.0–6.0)
 - **Framing:** Static wide of a small, lived-in bedroom with clothes on a chair and a half-open cupboard.
-- **Action:** She launches out of bed. Her foot catches the sheet and she stumbles but doesn't fall, then exits frame.
+- **Action:** She launches out of bed. Her foot catches the sheet and she stumbles but doesn't fall. She lunges to the cupboard and flings clothes onto the chair pile without looking, yanks out a crumpled white shirt, and exits frame with it.
 - **Camera:** Locked off. The comedy comes from the stillness.
-- **Sound:** Bare feet slapping tile, the sheet dragging, a cupboard door banging (off).
+- **Sound:** Bare feet slapping tile, the sheet dragging, hangers clacking, the cupboard door banging.
 
-### SHOT 04 — 3.5 sec (5.5–9.0)
+### SHOT 04 — 3.0 sec (6.0–9.0)
 - **Framing:** Medium on her mirror reflection in the bathroom, with the same framing held across 4 jump cuts:
   - (a) She brushes aggressively, the tap running.
   - (b) She has the white shirt half on, one arm in, and checks the collar.
@@ -75,12 +75,12 @@
 - **Sound:** The caller is phone-filtered. The tap is still running and she doesn't notice.
 
 ### SHOT 07 — FINAL — 2.0 sec (13.0–15.0)
-- **Framing:** Close OTS onto the phone in her hand at chest height. Her reflection sits soft behind it in the mirror.
+- **Framing:** Close OTS onto the phone in her hand at chest height. Her reflection sits soft behind it in the mirror. In the last ~0.7 s, a slow rack focus moves from the screen to her reflection's face.
 - **Action:** The phone buzzes and a message slides in: **Whatever happens, don't tell them.** (composite, legible, nothing else on screen).
-- **Performance:** Her reflection goes still. There's no big reaction, just a slight swallow.
+- **Performance:** Her reflection goes still. Her breath catches and she swallows. As the focus lands on her reflection, she's visibly unsettled: her jaw is tight and her eyes are fixed on the screen. There's no gasp and no big reaction.
 - **Sound:** The music drops out entirely. Only the tap runs.
 - **Cliffhanger:** The message.
-- **Exact cut point:** Hard cut on the swallow, before she types or looks up.
+- **Exact cut point:** Hard cut the moment the focus lands on her unsettled reflection, before she types or looks up. The message must be readable for at least 1.2 s before the rack starts.
 - **State to preserve for Ep 02:** Bathroom, tap running, message open, shirt half-buttoned, hair half-tied, kajal on the left eye only, gold studs, phone at chest height (cracked corner the same), morning light.
 
 ## 3. Post notes
