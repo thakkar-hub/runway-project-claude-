@@ -7,52 +7,62 @@
     {
       "id": "S01",
       "trim": 2.5,
-      "prompt": "Extreme close-up of a smartphone with a cracked corner screen protector vibrating on a wooden bedside table, small Mumbai bedroom, morning light through window grilles casting bars across white sheets. In the background, out of focus, she lies in a faded grey oversized tee, hair in a collapsing claw-clip bun, kajal smudge under her left eye only; she jolts awake with her face in the pillow and reaches toward the phone. Slow rack focus from phone to her face. Static camera."
+      "prompt": "Extreme close-up of a smartphone with a cracked corner screen protector vibrating on a wooden bedside table, small Mumbai bedroom, morning light through window grilles casting bars across white sheets. In the background, out of focus, she lies in a faded grey oversized tee, hair in a collapsing claw-clip bun, kajal smudge under her left eye only; she jolts awake with her face in the pillow and reaches toward the phone. Slow rack focus from phone to her face. Static camera.",
+      "motion": "The phone vibrates and skitters slightly on the wood. In the background she jolts awake and slaps a hand toward it. Slow rack focus from the phone to her face. Locked-off camera."
     },
     {
       "id": "S02",
       "trim": 1.5,
-      "prompt": "Over-the-shoulder shot from behind her shoulder in bed, looking down at the phone lock screen glowing in her hand, cracked corner on the screen protector. Her hair is a collapsing claw-clip bun, her grey tee is faded. Screen kept plain and blank for compositing. Static camera."
+      "prompt": "Over-the-shoulder shot from behind her shoulder in bed, looking down at the phone lock screen glowing in her hand, cracked corner on the screen protector. Her hair is a collapsing claw-clip bun, her grey tee is faded. Screen kept plain and blank for compositing. Static camera.",
+      "motion": "Her thumb taps the phone to silence it. She stares at the screen and mutters one word. Locked-off camera."
     },
     {
       "id": "S03",
       "trim": 2.0,
-      "prompt": "Static wide shot of a small, lived-in Mumbai bedroom, clothes piled on a chair, half-open cupboard, morning light through window grilles. She scrambles out of bed in a faded grey oversized tee, foot catches the sheet, stumbles without falling, lunges to the cupboard and flings clothes onto the chair, yanks out a crumpled white shirt and rushes out of frame. Realistic weight. Locked-off camera."
+      "prompt": "Static wide shot of a small, lived-in Mumbai bedroom, clothes piled on a chair, half-open cupboard, morning light through window grilles. She scrambles out of bed in a faded grey oversized tee, foot catches the sheet, stumbles without falling, lunges to the cupboard and flings clothes onto the chair, yanks out a crumpled white shirt and rushes out of frame. Realistic weight. Locked-off camera.",
+      "motion": "She scrambles out of bed, her foot catches the sheet, she stumbles without falling, lunges to the cupboard, flings clothes onto the chair, grabs a white shirt and runs out of frame. Real weight. Locked-off camera."
     },
     {
       "id": "S04a",
       "trim": 0.8,
-      "prompt": "Medium shot of her reflection in a small bathroom mirror cabinet with desilvered edges, steel tumbler of toothbrushes on the ledge, tap running. She is in a faded grey tee, hair in a messy bun, kajal smudge under her left eye only, brushing her teeth aggressively. Subtle handheld from the doorway."
+      "prompt": "Medium shot of her reflection in a small bathroom mirror cabinet with desilvered edges, steel tumbler of toothbrushes on the ledge, tap running. She is in a faded grey tee, hair in a messy bun, kajal smudge under her left eye only, brushing her teeth aggressively. Subtle handheld from the doorway.",
+      "motion": "She brushes her teeth fast and aggressively while the tap runs. Slight handheld."
     },
     {
       "id": "S04b",
       "trim": 0.75,
-      "prompt": "Medium shot of her reflection in a small bathroom mirror cabinet with desilvered edges, steel tumbler of toothbrushes, tap running. She has a crumpled white shirt half on, one arm in, and checks the collar in the mirror. Kajal smudge under her left eye only. Subtle handheld from the doorway, same framing."
+      "prompt": "Medium shot of her reflection in a small bathroom mirror cabinet with desilvered edges, steel tumbler of toothbrushes, tap running. She has a crumpled white shirt half on, one arm in, and checks the collar in the mirror. Kajal smudge under her left eye only. Subtle handheld from the doorway, same framing.",
+      "motion": "She shoves one arm into the white shirt and tugs at the collar, checking it in the mirror. Slight handheld."
     },
     {
       "id": "S04c",
       "trim": 0.75,
-      "prompt": "Medium shot of her reflection in a small bathroom mirror cabinet with desilvered edges, tap running. In a crumpled white shirt, top two buttons undone, she yanks her hair into a tie, misses some strands, flyaways left loose, and gives up. Kajal smudge under her left eye only. Subtle handheld from the doorway, same framing."
+      "prompt": "Medium shot of her reflection in a small bathroom mirror cabinet with desilvered edges, tap running. In a crumpled white shirt, top two buttons undone, she yanks her hair into a tie, misses some strands, flyaways left loose, and gives up. Kajal smudge under her left eye only. Subtle handheld from the doorway, same framing.",
+      "motion": "She yanks her hair into a tie, strands slip out, she gives up. Slight handheld."
     },
     {
       "id": "S04d",
       "trim": 0.7,
-      "prompt": "Medium shot of her reflection in a small bathroom mirror cabinet with desilvered edges, tap running. In a crumpled white shirt, hair half-tied with flyaways, she checks her breath into her cupped palm, then attempts a polite professional smile at the mirror that fades instantly. Kajal smudge under her left eye only. Subtle handheld from the doorway, same framing."
+      "prompt": "Medium shot of her reflection in a small bathroom mirror cabinet with desilvered edges, tap running. In a crumpled white shirt, hair half-tied with flyaways, she checks her breath into her cupped palm, then attempts a polite professional smile at the mirror that fades instantly. Kajal smudge under her left eye only. Subtle handheld from the doorway, same framing.",
+      "motion": "She breathes into her cupped palm and sniffs, then forces a polite smile at the mirror that drops instantly. Slight handheld."
     },
     {
       "id": "S05",
       "trim": 0.8,
-      "prompt": "Insert close-up of a smartphone with a cracked corner screen protector ringing on the edge of a bathroom sink beside a running tap, steel tumbler of toothbrushes nearby. Her hand, white shirt cuff unbuttoned, enters frame edge and freezes mid-reach. Screen plain for compositing. Static camera."
+      "prompt": "Insert close-up of a smartphone with a cracked corner screen protector ringing on the edge of a bathroom sink beside a running tap, steel tumbler of toothbrushes nearby. Her hand, white shirt cuff unbuttoned, enters frame edge and freezes mid-reach. Screen plain for compositing. Static camera.",
+      "motion": "The phone vibrates on the sink ledge. Her hand reaches in from the frame edge and freezes. Tap water keeps running. Locked-off camera."
     },
     {
       "id": "S06",
       "trim": 3.2,
-      "prompt": "Over-the-shoulder into a bathroom mirror cabinet with desilvered edges, her real shoulder soft in the foreground. In the reflection she holds a phone to her ear, crumpled white shirt with top two buttons undone, hair half-tied with flyaways, kajal under her left eye only. She looks away from her reflection, swallows, speaks briefly, lowers the phone as the call ends, then slowly meets her own eyes in the mirror and holds the look. Tap running. Static, slightly imperfect framing."
+      "prompt": "Over-the-shoulder into a bathroom mirror cabinet with desilvered edges, her real shoulder soft in the foreground. In the reflection she holds a phone to her ear, crumpled white shirt with top two buttons undone, hair half-tied with flyaways, kajal under her left eye only. She looks away from her reflection, swallows, speaks briefly, lowers the phone as the call ends, then slowly meets her own eyes in the mirror and holds the look. Tap running. Static, slightly imperfect framing.",
+      "motion": "She listens on the phone, swallows, says a few words without meeting her own eyes, lowers the phone, then slowly looks at her reflection and holds the look. Static camera."
     },
     {
       "id": "S07",
       "trim": 2.0,
-      "prompt": "Close over-the-shoulder shot of a phone with a cracked corner screen protector held at chest height in her hand, white shirt cuff unbuttoned. Her reflection is soft in the bathroom mirror behind it, hair half-tied. The phone gives a small buzz; she goes very still, breath catches, she swallows. Slow rack focus from the phone to her reflection's face, visibly unsettled, jaw tight. Tap running. Screen plain for compositing."
+      "prompt": "Close over-the-shoulder shot of a phone with a cracked corner screen protector held at chest height in her hand, white shirt cuff unbuttoned. Her reflection is soft in the bathroom mirror behind it, hair half-tied. The phone gives a small buzz; she goes very still, breath catches, she swallows. Slow rack focus from the phone to her reflection's face, visibly unsettled, jaw tight. Tap running. Screen plain for compositing.",
+      "motion": "The phone buzzes once. She goes very still, breath catches, she swallows. Slow rack focus from the phone screen to her reflection's face. Static camera."
     }
   ]
 }

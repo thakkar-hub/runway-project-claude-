@@ -3,7 +3,8 @@
 
 Two stages per shot, so every shot locks to Sasha's face:
   1. gen4_image   – keyframe from the shot prompt + Sasha reference image
-  2. gen4_turbo   – image_to_video animating that keyframe (5 s, trimmed in edit)
+  2. gen4_turbo   – image_to_video animating that keyframe with the shot's
+                   motion-only prompt (5 s, trimmed in edit)
 
 Usage:
   export RUNWAYML_API_SECRET=...
@@ -91,7 +92,7 @@ def main():
             "ratio": spec["ratio"],
             "duration": 5,
             "promptImage": img,
-            "promptText": prompt,
+            "promptText": shot.get("motion", prompt),
         })["id"])
         download(vid, out / f"{shot['id']}.mp4")
 

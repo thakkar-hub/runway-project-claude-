@@ -4,6 +4,7 @@ Series open. 15.0 sec, 7 shots, 9:16 (720:1280).
 
 | File | What it is |
 |---|---|
+| `RUNWAY_GUIDE.md` | **Step-by-step: make this episode in the Runway web app** |
 | `breakdown.md` | Pre-production breakdown, shot list, post notes, Ep 02 handoff |
 | `shots.json` | Per-shot generation prompts (style block appended at render time) |
 | `../../render.py` | Runway render script (reads `shots.json`) |
