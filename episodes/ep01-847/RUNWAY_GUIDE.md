@@ -28,7 +28,7 @@ For **each shot below**, paste the Step A prompt into image-with-references, wit
 - **Reject** any option with waxy skin, a different face, extra fingers, a warped phone, a too-perfect "Pinterest" room, or glam makeup.
 - The phone screen can be blank or gibberish. You'll cover it in the edit.
 - **Do the bathroom first.** Approve **S04a**, then add that still as a second reference (`@Bathroom`) for S04b–S07, so the mirror, tumbler and tap match across shots.
-- **Check the kajal:** it's under her **left** eye. In mirror shots (S04, S06, S07), her reflection shows it on the **right side of the frame**. That's correct; don't "fix" it.
+- **Check the kajal:** it's under her **left** eye. When the camera faces her directly (S01–S03), it's on the **right** of the frame. In the mirror shots (S04, S06, S07), the camera is behind her, so the reflection shows it on the **left** of the frame. Reject any take where it's under both eyes or under the wrong eye.
 
 Before you spend credits on video, put all 10 approved stills side by side. If one face drifts from the others, redo that still now. It's much cheaper than redoing a video.
 

@@ -92,7 +92,7 @@
 
 ## 4. QC checklist (reject and regenerate if any fail)
 - Sasha's face is the same across all 7 shots: eye shape, hairline, nose, jaw.
-- Kajal is under the **left** eye only (watch for mirror flips in shots 04, 06 and 07: in the reflection it appears on screen-right).
+- Kajal is under the **left** eye only. When the camera faces her directly (01–03), it appears on **screen-right**. In the mirror shots (04, 06, 07), the camera is behind her, so it appears on **screen-left** in the reflection.
 - The phone shows no warped geometry, and the cracked corner is the same corner in every shot.
 - No extra fingers on her hand reaching for or holding the phone (01, 05, 07).
 - The tap is visibly running in 04, 05, 06 and 07.

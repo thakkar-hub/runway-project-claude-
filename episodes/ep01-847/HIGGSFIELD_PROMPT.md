@@ -27,4 +27,4 @@ waxy or airbrushed skin, face morphing, changing face between shots, glam makeup
 ## Notes
 - **Phone screens are kept blank on purpose.** Add `8:47 AM`, `K.` and `Whatever happens, don't tell them.` in the edit; models garble on-screen text.
 - **If the model maxes out under 15 s**, split at the cut: run 0.0–9.0 s as clip 1 and 9.0–15.0 s as clip 2, keeping the opening character paragraph and the sound line in both.
-- **The kajal will look like it's on the "wrong" side in the mirror.** In mirror shots it shows on screen-right. That's correct.
+- **Check the kajal side.** It's under her left eye. When the camera faces her (0–6 s), it's on screen-right. In the mirror shots (6–15 s), the camera is behind her, so it's on screen-left in the reflection. Regenerate if it's under both eyes.
